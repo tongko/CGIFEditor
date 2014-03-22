@@ -3,6 +3,7 @@ using System.Windows.Forms;
 
 namespace Ivis.Editor
 {
+	//	Where is the readme file?
 	static class Program
 	{
 		/// <summary>
